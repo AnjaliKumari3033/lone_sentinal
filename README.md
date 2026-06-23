@@ -110,7 +110,7 @@ GEO-SNAP/
 │
 └── requirements.txt
 ```
-# 📊 Exploratory Data Analysis (eda.ipynb)
+# 📊 Exploratory Data Analysis (Task1_eda.ipynb)
 
 The notebook includes:
 
@@ -132,7 +132,7 @@ Generated figures:
 - multispectral_bands.png
 - spectral_signatures.png
 
-# 📈 Training Analysis (training_analysis.ipynb)
+# 📈 Training Analysis (Task1_training_analysis.ipynb)
 
 This notebook analyzes the training performance of both models.
 
@@ -153,7 +153,7 @@ Generated figures:
 - ms_training_curves.png
 - model_comparison.png
 
-# 🔍 Explainability (explainability.ipynb)
+# 🔍 Explainability (Task2_explainability.ipynb)
 
 ## Grad-CAM
 
@@ -202,7 +202,7 @@ Generated figures:
 - rgb_confusion_matrix.png
 - ms_confusion_matrix.png
 
-# 🌱 Environmental Insights (environmental_insights.ipynb)
+# 🌱 Environmental Insights (Task3_environmental_insights.ipynb)
 
 Environmental analysis performed using multispectral imagery.
 
